@@ -1,4 +1,0 @@
-- 👋 Hi, we're <a href="https://github.com/Zombies-World-Records" target="_blank">@Zombies World Records</a>
-- 👀 We have a Zombies world record leaderboard website that encompasses different styles of gameplay
-- 🔗 Check our website out at:  <a href= "https://zwr.gg/" target="_blank">ZWR</a>
-- 📫 How to reach us ... <a href="https://github.com/Zombies-World-Records" target="_blank">@Zombies World Records</a>  <a href="https://discord.com/invite/Gn6NecVKXn" target="_blank">@ZWR Discord Server</a> 
